@@ -26,7 +26,6 @@ export const PinGate: React.FC<PinGateProps> = ({ children }) => {
   if (isAuthenticated) {
     return <>{children}</>;
   }
-
   return (
     <div className="min-h-screen flex items-center justify-center bg-background p-4 industrial-grid-overlay">
       <div className="bg-surface border border-outline-variant rounded-xl shadow-2xl p-8 max-w-sm w-full text-center">
