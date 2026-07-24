@@ -20,6 +20,10 @@ const APPS_DATA: AppData[] = [
     description: 'Integration to QuickBooks to add document printing, advance search and reporting.',
     imageUrl: '/qb.webp',
     appUrl: 'https://rws-qb.vercel.app/signin',
+    resources: [
+      { label: 'Video Tutorials', url: 'https://drive.google.com/drive/u/0/folders/14BGi9yn3NERkaSXu4oNAzZyDdqpxCHq5', icon: 'play_circle' },
+      { label: 'PDF Documentation', url: '#', icon: 'description' },
+    ],
   },
   {
     title: 'Intranet',
@@ -27,6 +31,10 @@ const APPS_DATA: AppData[] = [
     description: 'Manage projects, and content of the web site and internal protocols.',
     imageUrl: '/intranet.webp',
     appUrl: 'https://internal.rws.ca/',
+    resources: [
+      { label: 'Video Tutorials', url: 'https://drive.google.com/drive/folders/1Ql9RIyZzWf4Gy-lxrctdPNu8g8qqFZiF?usp=sharing', icon: 'play_circle' },
+      { label: 'PDF Documentation', url: '#', icon: 'description' },
+    ],
   },
   {
     title: 'TV-Projects',
@@ -34,6 +42,10 @@ const APPS_DATA: AppData[] = [
     description: 'Projects management, construction industrial monitoring and tracking.',
     imageUrl: '/tv.webp',
     appUrl: 'https://rws-tv.vercel.app/',
+    resources: [
+      { label: 'Video Tutorials', url: 'https://drive.google.com/drive/folders/1Wd0KSc_KsgVXp-WoMDH3siC8IhxVYPe3?usp=sharing', icon: 'play_circle' },
+      { label: 'PDF Documentation', url: '#', icon: 'description' },
+    ],
   },
   {
     title: 'Quote Manager',
@@ -41,6 +53,10 @@ const APPS_DATA: AppData[] = [
     description: 'Automation to detect quotes and has a historical life cycle tracker.',
     imageUrl: '/quote manager.webp',
     appUrl: 'https://rws-quotes.up.railway.app/',
+    resources: [
+      { label: 'Video Tutorials', url: 'https://drive.google.com/drive/folders/1ckyYw9-pqZzUx7tVNdpO__HpBd5RlfP7?usp=sharing', icon: 'play_circle' },
+      { label: 'PDF Documentation', url: '#', icon: 'description' },
+    ],
   },
   {
     title: 'Task Manager',
@@ -48,6 +64,10 @@ const APPS_DATA: AppData[] = [
     description: 'Visual Kanban system to organize and track team tasks.',
     imageUrl: '/kanban.webp',
     appUrl: 'https://rws-kanban.vercel.app/login',
+    resources: [
+      { label: 'Video Tutorials', url: 'https://drive.google.com/drive/folders/19elZV19HPHRK9XI5R2FBamf1GQC50NPF?usp=sharing', icon: 'play_circle' },
+      { label: 'PDF Documentation', url: '#', icon: 'description' },
+    ],
   },
   {
     title: 'Drive',
@@ -55,6 +75,10 @@ const APPS_DATA: AppData[] = [
     description: 'Upload and manage field site images directly to the cloud.',
     imageUrl: '/drive.webp',
     appUrl: 'https://rws-drive.vercel.app/',
+    resources: [
+      { label: 'Video Tutorials', url: 'https://drive.google.com/drive/folders/1OkVcRyMHIkGdb5HOuBT693vmsPW2vhvf?usp=sharing', icon: 'play_circle' },
+      { label: 'PDF Documentation', url: '#', icon: 'description' },
+    ],
   },
 ];
 
