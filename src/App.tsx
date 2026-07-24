@@ -44,7 +44,7 @@ const APPS_DATA: AppData[] = [
     appUrl: 'https://rws-tv.vercel.app/',
     resources: [
       { label: 'Video Tutorials', url: 'https://drive.google.com/drive/folders/1Wd0KSc_KsgVXp-WoMDH3siC8IhxVYPe3?usp=sharing', icon: 'play_circle' },
-      { label: 'PDF Documentation', url: '#', icon: 'description' },
+      { label: 'PDF Documentation', url: 'https://drive.google.com/file/d/1Vp2rLrhdsB3wt9KsUnc99zSerXfUfKhu/view?usp=drive_link', icon: 'description' },
     ],
   },
   {
