@@ -55,7 +55,7 @@ const APPS_DATA: AppData[] = [
     appUrl: 'https://rws-quotes.up.railway.app/',
     resources: [
       { label: 'Video Tutorials', url: 'https://drive.google.com/drive/folders/1ckyYw9-pqZzUx7tVNdpO__HpBd5RlfP7?usp=sharing', icon: 'play_circle' },
-      { label: 'PDF Documentation', url: '#', icon: 'description' },
+      { label: 'PDF Documentation', url: 'https://drive.google.com/file/d/10-D-EA-UDOWqXiLdIour3zO-45Iknc_b/view?usp=drive_link', icon: 'description' },
     ],
   },
   {
@@ -66,7 +66,7 @@ const APPS_DATA: AppData[] = [
     appUrl: 'https://rws-kanban.vercel.app/login',
     resources: [
       { label: 'Video Tutorials', url: 'https://drive.google.com/drive/folders/19elZV19HPHRK9XI5R2FBamf1GQC50NPF?usp=sharing', icon: 'play_circle' },
-      { label: 'PDF Documentation', url: '#', icon: 'description' },
+      { label: 'PDF Documentation', url: 'https://drive.google.com/file/d/1pn0ekteeSv6hgnSemRI7noJbXPdBcy2Q/view?usp=drive_link', icon: 'description' },
     ],
   },
   {
@@ -77,7 +77,7 @@ const APPS_DATA: AppData[] = [
     appUrl: 'https://rws-drive.vercel.app/',
     resources: [
       { label: 'Video Tutorials', url: 'https://drive.google.com/drive/folders/1OkVcRyMHIkGdb5HOuBT693vmsPW2vhvf?usp=sharing', icon: 'play_circle' },
-      { label: 'PDF Documentation', url: '#', icon: 'description' },
+      { label: 'PDF Documentation', url: 'https://drive.google.com/file/d/1lHZxnUqD_ri38wtqLNEzuFx26u_3dv2M/view?usp=drive_link', icon: 'description' },
     ],
   },
 ];
