@@ -33,7 +33,6 @@ export const PinGate: React.FC<PinGateProps> = ({ children }) => {
         <div className="mx-auto w-20 h-20 bg-white border border-outline-variant rounded-full flex items-center justify-center mb-6 shadow-md">
           <img src="/Logo.webp" alt="R.W.S. Logo" className="w-14 h-14 object-contain" />
         </div>
-
         <h2 className="font-headline-md text-headline-md font-bold text-steel-blue mb-2">
           R.W.S. Portal
         </h2>
